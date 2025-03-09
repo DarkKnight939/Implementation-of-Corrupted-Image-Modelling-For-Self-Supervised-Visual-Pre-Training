@@ -1,0 +1,14 @@
+torch
+torchvision
+tqdm
+numpy
+pillow
+random
+unittest
+scipy
+matplotlib
+opencv-python
+transformers
+tokenizers
+datasets
+dall-e
