@@ -10,9 +10,7 @@ This repository contains a deep learning framework for **Corrupted Image Modelin
 │── /utils        # Learning rate scheduling, loss functions
 │── /tests        # Unit tests for model validation
 │── /checkpoints  # Trained model weights
-│── /test_results # Outputs from model testing
 │── main.py       # Entry point for training
-│── test_model.py # Script for testing the trained models
 │── requirements.txt  # Dependencies
 │── README.md     # Documentation
 ```
@@ -32,7 +30,7 @@ python main.py
 ## 🛠️ Testing
 To test the trained models:
 ```sh
-python test_model.py
+python test.py
 ```
 
 ## 📊 Model Components
