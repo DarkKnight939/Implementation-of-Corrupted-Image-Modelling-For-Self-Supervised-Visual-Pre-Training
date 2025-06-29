@@ -38,7 +38,7 @@ python test.py
 - **Enhancer (ResNet-based model)**: Enhances image quality using pixel-wise prediction and token replacement detection.
 
 ## 📌 Checkpoints
-Trained models are saved in the `checkpoints/` directory after every few epochs.
+Trained models are saved in the `checkpoints/` directory and they are done so after every few epochs.
 
 ## 📝 License
 MIT License
